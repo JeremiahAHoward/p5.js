@@ -4,7 +4,7 @@
 
 Welcome to the contributor guidelines! This document is for new contributors looking to contribute code to p5.js, contributors looking to refresh their memories on some technical steps, or just about anything else to do with code contributions to p5.js.
 
-If you are looking to contribute outside of the p5.js repositories (writing tutorials, planning classes, organizing events), please have a look at the other relevant pages instead. Stewards or maintainers may find the [steward guidelines](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md) more helpful regarding reviewing issues and pull requests.
+If you are looking to contribute outside of the p5.js repositories (writing tutorials, planning classes, organizing events), please have a look at the other relevant pages instead. Stewards or maintainers may find the [steward guidelines.md](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md) more helpful regarding reviewing issues and pull requests.
 
 This is a relatively long and comprehensive document but we will try to signpost all steps and points as clearly as possible. Do utilize the table of contents to find sections relevant to you. Feel free to skip sections if they are not relevant to your planned contributions.
 
